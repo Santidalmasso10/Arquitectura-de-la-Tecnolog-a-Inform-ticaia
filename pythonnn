@@ -1,0 +1,14 @@
+frutas = ["manzana","pera","uvas","mandarina"]
+frutas.append("banana")
+frutas.insert(2,"durazno")
+frutas.remove("uvas")
+frutas.sort()
+frutas.reverse()
+for fruta in frutas:
+    print(fruta)
+#while #repite un bloque mientras una condicion se verdadera
+
+contador=0
+while contador < 5:
+    print(contador)
+    contador +=1

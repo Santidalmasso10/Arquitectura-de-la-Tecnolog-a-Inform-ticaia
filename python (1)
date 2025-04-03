@@ -1,0 +1,14 @@
+
+frutas = ("manzana","pera","uvas","mandarina")
+for  frutas in frutas:
+    print(frutas)
+    # TODO: write code...
+
+#while #repite un bloque mientras una condicion se verdadera 
+
+contador = 0
+while contador < 5:
+    print(contador)
+    contador +=1  
+    
+    
